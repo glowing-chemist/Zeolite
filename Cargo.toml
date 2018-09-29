@@ -5,4 +5,4 @@ authors = ["Oliver Smith <olie.smit0@gmail.com>"]
 
 [dependencies]
 glm = "0.2.3"
-rand = "0.3"
+rand = "0.5.5"
